@@ -79,6 +79,6 @@ void inicio(int quntidade)
 int main()
 {
     inicio(3);
-    system('pause');
+    system("pause");
     return 0;
 }
